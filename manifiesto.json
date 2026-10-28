@@ -1,0 +1,17 @@
+{
+"sal": "OaBneyLDoW6jvLgGOrVXqA==",
+"iter": 310000,
+"doc": "d/0.bin",
+"medios": [
+{
+"ruta": "media/logo-reynasa.png",
+"f": "d/1.bin",
+"t": "image/png"
+},
+{
+"ruta": "media/prueba-red.png",
+"f": "d/2.bin",
+"t": "image/png"
+}
+]
+}
