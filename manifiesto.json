@@ -1,5 +1,5 @@
 {
-"sal": "w5mSHAr0Qm9JfwPTMxW90Q==",
+"sal": "7MyBTfn+tJlFk641cALpCA==",
 "iter": 310000,
 "doc": "d/0.bin",
 "medios": [
@@ -16,6 +16,11 @@
 {
 "ruta": "media/prueba-cowork.png",
 "f": "d/3.bin",
+"t": "image/png"
+},
+{
+"ruta": "media/prueba-sage.png",
+"f": "d/4.bin",
 "t": "image/png"
 }
 ]
